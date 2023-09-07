@@ -1,0 +1,1 @@
+export * as keycloakModel from './model'
